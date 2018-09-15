@@ -3,7 +3,7 @@ Company information made in React Native and android studio
 all rights and information within this application is reserved to Advanced Block Chain AG
 ¨"https://www.advancedblockchain.com"
 
-
+This application is made using React Native, i used expo for the build, and android studio for the coding
 
 in the folder "screens" of the project the: HomeScreen.js  
 1/ contains the company logo, simple work definition and 2 buttons 
