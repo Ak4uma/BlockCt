@@ -1,12 +1,12 @@
 # BlockCt
 Company information made in React Native and android studio
-all rights and information within this application is reserved to Advanced Bloack Chain AG
+all rights and information within this application is reserved to Advanced Block Chain AG
 ¨"https://www.advancedblockchain.com"
 
 
 
 in the folder "screens" of the project the: HomeScreen.js  
-1/ contains the company logo, simple work difinition and 2 buttons 
+1/ contains the company logo, simple work definition and 2 buttons 
 
 ![home screen with buttons](https://user-images.githubusercontent.com/11035733/45586406-40e54400-b8f7-11e8-98d0-88275c91d7a2.jpg)
 
@@ -21,9 +21,9 @@ using ¨"import { WebBrowser } from 'expo';" allows a browser mode connected to 
 
 
 
-3/ using import { WebView} from 'react-native';¨and bsic render function, turns the screens into a web view from within the application
-allowing the news to be available to immediate viewe, and when accessing twitter it allows for sign in option from within the app
-the webview, allowes for twitter access without the need to implement Twitter API or needing any kind of authentication
+3/ using import { WebView} from 'react-native';¨and basic render function, turns the screens into a web view from within the application
+allowing the news to be available to immediate view, and when accessing twitter it allows for sign in option from within the app
+the WebView, allows for twitter access without the need to implement Twitter API or needing any kind of authentication
 
  IN screens/LinksScreen.js  contains a web view of "twitter.com/BlockchainAG" 
 
