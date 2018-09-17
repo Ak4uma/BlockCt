@@ -27,9 +27,19 @@ the react native "Web View" , allows for twitter access without the need to impl
 
  IN the project directory screens/LinksScreen.js  you will find the code for viewing "twitter.com/BlockchainAG" 
 
-![news room](https://user-images.githubusercontent.com/11035733/45586424-84d84900-b8f7-11e8-83b9-d4f8913eac88.jpg)
+![tweet](https://user-images.githubusercontent.com/11035733/45586425-84d84900-b8f7-11e8-8097-bb7dc6d4d536.jpg)
+
+
+
+ps://user-images.githubusercontent.com/11035733/45586424-84d84900-b8f7-11e8-83b9-d4f8913eac88.jpg)
+
+room](https://user-images.githubusercontent.com/11035733/45586424-84d84900-b8f7-11e8-83b9-d4f8913eac88.jpg)
+
+ws room](https://user-images.githubusercontent.com/11035733/45586424-84d84900-b8f7-11e8-83b9-d4f8913eac88.jpg)
 
 
 And IN the directory screens/SettingsScreen.js  contains a web view of the latest news posted on "https://www.advancedblockchain.com/en/newsroom.html"
 
-![tweet](https://user-images.githubusercontent.com/11035733/45586425-84d84900-b8f7-11e8-8097-bb7dc6d4d536.jpg)
+
+![news room](https://user-images.githubusercontent.com/11035733/45586424-84d84900-b8f7-11e8-83b9-d4f8913eac88.jpg)
+
