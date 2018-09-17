@@ -31,11 +31,7 @@ the react native "Web View" , allows for twitter access without the need to impl
 
 
 
-ps://user-images.githubusercontent.com/11035733/45586424-84d84900-b8f7-11e8-83b9-d4f8913eac88.jpg)
 
-room](https://user-images.githubusercontent.com/11035733/45586424-84d84900-b8f7-11e8-83b9-d4f8913eac88.jpg)
-
-ws room](https://user-images.githubusercontent.com/11035733/45586424-84d84900-b8f7-11e8-83b9-d4f8913eac88.jpg)
 
 
 And IN the directory screens/SettingsScreen.js  contains a web view of the latest news posted on "https://www.advancedblockchain.com/en/newsroom.html"
